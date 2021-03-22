@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "some js demo and practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panfeng-fe/js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panfeng-fe/js/issues"
+  },
+  "homepage": "https://github.com/panfeng-fe/js#readme",
+  "dependencies": {
+    "vue": "^3.0.7"
+  }
+}
